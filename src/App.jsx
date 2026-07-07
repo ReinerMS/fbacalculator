@@ -130,6 +130,5 @@ export default function App() {
         onChange={setFeeConfig}
       />
     </div>
-    
   );
 }

@@ -14,7 +14,7 @@ export default function ProductQueue({
       <div className="flex items-center justify-between border-b border-line px-4 py-3">
         <div>
           <h2 className="font-display text-sm font-semibold text-ink">
-            Cola de escaneo
+            Cantidad de productos
           </h2>
           <p className="font-mono text-[10px] uppercase tracking-wide text-ink-faint">
             {products.length} en análisis
